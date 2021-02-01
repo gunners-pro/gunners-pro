@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, eu sou Fabricyo 👋
+
+- 🔭 Eu sou um Desenvolvedor Frontend
+- 👯 Atualmente procuro trabalhar com equipes de ponta
+- 💬 Vamos bater um papo !
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/fabricyo-barreto/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:fabriciobarreto@hotmail.com)](mailto:fabriciobarreto@hotmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunners-pro)](https://github.com/anuraghazra/github-readme-stats)
 
