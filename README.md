@@ -1,7 +1,7 @@
 ## Olá, eu sou Fabricyo 👋
 
-- 🔭 Eu sou um Desenvolvedor Fullstack
-- ⚡ Atualmente procuro trabalhar com a stack Javascript(ReactJS, React Native e NodeJS)
+- 🔭 Eu sou um Desenvolvedor Frontend
+- ⚡ Atualmente procuro trabalhar com a stack Javascript
 - 💬 Vamos bater um papo !
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/fabricyo-barreto/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:fabriciobarreto@hotmail.com)](mailto:fabriciobarreto@hotmail.com)
