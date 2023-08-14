@@ -14,8 +14,7 @@
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-          
-          
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
 </div><br />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunners-pro)](https://github.com/anuraghazra/github-readme-stats)
