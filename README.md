@@ -1,6 +1,6 @@
 ## Olá, eu sou Fabricyo 👋
 
-- 🔭 Developer Flutter | Python | SQL
+- 🔭 SQL Server Administrator
 - ⚡ Curso Superior Tecnologia em Banco de Dados
 - 💬 Vamos bater um papo !
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/fabricyo-barreto/)
@@ -10,17 +10,12 @@
 
 <div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br />
   
-<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<br />
-<img src="https://img.shields.io/badge/LottieFiles-00DDB3.svg?style=for-the-badge&logo=LottieFiles&logoColor=white" />
-<img src="https://img.shields.io/badge/Rive-1D1D1D.svg?style=for-the-badge&logo=Rive&logoColor=white" />
 <br />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br />
